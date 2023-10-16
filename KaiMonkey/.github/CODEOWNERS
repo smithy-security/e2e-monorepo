@@ -1,5 +1,7 @@
 # .github/CODEOWNERS
-# This file designates required PR reviewers for this repository
+# This file is used to test the codeowners enricher
 # https://help.github.com/articles/about-codeowners/
 
-*       @accurics/terrascan-maintainers @bkizer-tenable @tenable/terrascan-maintainers @tenable/terrascan-policy-maintainers
+# Global rule:
+*           @ocurity/tests
+/cft/**  @northdpole, @northdpolefoobar,@spyros
