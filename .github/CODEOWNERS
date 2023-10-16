@@ -1,0 +1,11 @@
+# .github/CODEOWNERS
+# This file is used to test the codeowners enricher
+# https://help.github.com/articles/about-codeowners/
+
+# Global rule:
+*           @ocurity/tests @northdpole
+/terragoat/terraform/**  @northdpole @northdpolefoobar @spyros
+/KaiMonkey/cft/**  @northdpole @northdpolefoobar @spyros
+/govwa/vulnerability/**  @northdpole @northdpolefoobar @spyros
+/go-dvwa/vulnerable/**  @northdpole @northdpolefoobar @spyros
+/dvpwa/sqli/**  @northdpole @northdpolefoobar,@spyros
