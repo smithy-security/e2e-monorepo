@@ -1,6 +1,0 @@
-# .github/CODEOWNERS
-# This file is used to test the codeowners enricher
-# https://help.github.com/articles/about-codeowners/
-
-# Global rule:
-*           @ocurity/tests @northdpole
