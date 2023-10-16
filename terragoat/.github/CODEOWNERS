@@ -4,4 +4,4 @@
 
 # Global rule:
 *           @ocurity/docs
-/terraform/**  @northdpole, @northdpolefoobar,@spyros
+/terraform/**  @northdpole @northdpolefoobar @spyros

@@ -4,4 +4,4 @@
 
 # Global rule:
 *           @ocurity/tests
-/cft/**  @northdpole, @northdpolefoobar,@spyros
+/cft/**  @northdpole @northdpolefoobar @spyros

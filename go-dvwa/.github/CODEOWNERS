@@ -4,4 +4,4 @@
 
 # Global rule:
 *           @ocurity/docs
-/vulnerable/**  @northdpole, @northdpolefoobar,@spyros
+/vulnerable/**  @northdpole @northdpolefoobar @spyros

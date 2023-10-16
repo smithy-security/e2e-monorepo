@@ -4,4 +4,4 @@
 
 # Global rule:
 *           @ocurity/docs
-/sqli/**  @northdpole, @northdpolefoobar,@spyros
+/sqli/**  @northdpole @northdpolefoobar,@spyros

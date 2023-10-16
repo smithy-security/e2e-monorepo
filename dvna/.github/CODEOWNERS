@@ -3,4 +3,4 @@
 # https://help.github.com/articles/about-codeowners/
 
 # Global rule:
-*           @ocurity/tests, @northdpole
+*           @ocurity/tests @northdpole
