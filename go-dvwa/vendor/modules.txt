@@ -113,9 +113,6 @@ github.com/sqreen/go-agent/internal/sqlib/sqtime
 github.com/sqreen/go-agent/internal/version
 github.com/sqreen/go-agent/sdk/middleware/sqhttp
 github.com/sqreen/go-agent/sdk/types
-# github.com/sqreen/go-dvwa v0.0.0-20210706191437-822f4bf8d049
-## explicit; go 1.13
-github.com/sqreen/go-dvwa/vulnerable
 # github.com/sqreen/go-libsqreen v0.7.1
 ## explicit; go 1.12
 github.com/sqreen/go-libsqreen/waf

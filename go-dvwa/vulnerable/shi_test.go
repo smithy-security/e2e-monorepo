@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/sqreen/go-dvwa/vulnerable"
+	"github.com/ocurity/e2e-monorepo/go-dvwa/vulnerable"
 	"github.com/stretchr/testify/require"
 )
 

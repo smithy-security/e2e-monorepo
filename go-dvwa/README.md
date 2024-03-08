@@ -19,7 +19,7 @@ security configuration you enabled.
 
 ## Quick Start
 
-The pre-compiled [go-dvwa](https://github.com/sqreen/go-dvwa/packages/494452)
+The pre-compiled [go-dvwa](https://github.com/ocurity/e2e-monorepo/go-dvwa/packages/494452)
 docker image can be used to simply run the web application. The HTTP server
 listens the TCP address `0.0.0.0:8080` so you can expose it with docker:
 
@@ -51,7 +51,7 @@ which can take a git repository source. Simply run the following command to
 build the latest `go-dvwa` docker image of this repository:
 
 ```console
-$ docker builder build github.com/sqreen/go-dvwa.git
+$ docker builder build github.com/ocurity/e2e-monorepo/go-dvwa.git
 ```
 
 Once built, you can simply run the image and pass the Sqreen configuration to

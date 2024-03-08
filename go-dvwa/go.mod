@@ -1,4 +1,4 @@
-module github.com/ocurity/e2e/go-dvwa
+module github.com/ocurity/e2e-monorepo/go-dvwa
 
 go 1.21
 
@@ -6,7 +6,6 @@ require (
 	github.com/gorilla/mux v1.7.4
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/sqreen/go-agent v1.0.5
-	github.com/sqreen/go-dvwa v0.0.0-20210706191437-822f4bf8d049
 	github.com/stretchr/testify v1.6.1
 )
 

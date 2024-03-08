@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 
 	"github.com/gorilla/mux"
-	"github.com/sqreen/go-dvwa/vulnerable"
+	"github.com/ocurity/e2e-monorepo/go-dvwa/vulnerable"
 )
 
 func NewRouter(templateDir string) *mux.Router {
