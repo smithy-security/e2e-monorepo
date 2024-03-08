@@ -3,9 +3,10 @@ package database
 import (
 	"database/sql"
 	"fmt"
-	_ "github.com/go-sql-driver/mysql"
-	"github.com/govwa/util/config"
 	"log"
+
+	_ "github.com/go-sql-driver/mysql"
+	"github.com/ocurity/e2e-monorepo/govwa/util/config"
 )
 
 func Connect() (*sql.DB, error) {

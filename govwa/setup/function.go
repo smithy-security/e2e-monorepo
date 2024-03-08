@@ -3,7 +3,7 @@ package setup
 import (
 	"database/sql"
 
-	"github.com/govwa/util/database"
+	"github.com/ocurity/e2e-monorepo/govwa/util/database"
 )
 
 const (

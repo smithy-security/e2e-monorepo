@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/govwa/user/session"
-	"github.com/govwa/util"
-	"github.com/govwa/util/config"
-	"github.com/govwa/util/database"
-	"github.com/govwa/util/middleware"
+	"github.com/ocurity/e2e-monorepo/govwa/user/session"
+	"github.com/ocurity/e2e-monorepo/govwa/util"
+	"github.com/ocurity/e2e-monorepo/govwa/util/config"
+	"github.com/ocurity/e2e-monorepo/govwa/util/database"
+	"github.com/ocurity/e2e-monorepo/govwa/util/middleware"
 
 	"github.com/julienschmidt/httprouter"
 )

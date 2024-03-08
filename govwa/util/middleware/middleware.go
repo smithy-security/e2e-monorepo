@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/govwa/user/session"
 	"github.com/julienschmidt/httprouter"
+	"github.com/ocurity/e2e-monorepo/govwa/user/session"
 )
 
 type Class struct{}
