@@ -134,12 +134,11 @@ github.com/subosito/gotenv
 ## explicit; go 1.11
 golang.org/x/net/http/httpproxy
 golang.org/x/net/idna
-# golang.org/x/sys v0.0.0-20201116194326-cc9327a14d48
-## explicit; go 1.12
-golang.org/x/sys/internal/unsafeheader
+# golang.org/x/sys v0.1.0
+## explicit; go 1.17
 golang.org/x/sys/unix
-# golang.org/x/text v0.3.3
-## explicit; go 1.11
+# golang.org/x/text v0.3.8
+## explicit; go 1.17
 golang.org/x/text/cases
 golang.org/x/text/collate
 golang.org/x/text/internal
@@ -162,6 +161,6 @@ gopkg.in/ini.v1
 # gopkg.in/yaml.v2 v2.3.0
 ## explicit
 gopkg.in/yaml.v2
-# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+# gopkg.in/yaml.v3 v3.0.0
 ## explicit
 gopkg.in/yaml.v3
